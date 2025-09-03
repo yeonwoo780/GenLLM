@@ -24,4 +24,6 @@
 
 ## Content
 
-- 학업 과제 및 학습 에이전트 시스템 [docs](docs/example01.md)
+- 학업 과제 및 학습 에이전트 시스템 | [docs](docs/example01.md) | [Example code](tutorials/example01.ipynb)
+
+- Scientific paper agent using LangGraph | [docs](docs/example02.md) | [Example code](tutorials/example02.ipynb)
