@@ -24,6 +24,5 @@
 
 ## Content
 
-- Scientific paper agent using LangGraph | [docs](docs/example02.md) | [Example code](tutorials/example02.ipynb)
+- Scientific paper agent using LangGraph | [docs](docs/example01.md) | [Example code](tutorials/example01.ipynb)
 
-- A Feynman-Enhanced Learning Agent Using LangGraph | [docs](docs/example03.md) | [Example code](tutorials/example03.ipynb)
