@@ -26,3 +26,4 @@
 
 - Scientific paper agent using LangGraph | [docs](docs/example01.md) | [Example code](tutorials/example01.ipynb)
 
+- 고객지원담당 | [docs](docs/example02.md) | [Example code](tutorials/example02.ipynb)
