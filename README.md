@@ -29,3 +29,5 @@
 - 고객지원담당 | [docs](docs/example02.md) | [Example code](tutorials/example02.ipynb)
 
 - 커리어 지원 | [Example code](tutorials/example03.ipynb)
+
+- finance deepagent | [Example code](tutorials/example04.ipynb)
